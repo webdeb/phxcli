@@ -1,0 +1,13 @@
+{
+  "name": "phxcli",
+  "version": "1.0.0",
+  "description": "A phoenix - channels based CLI to send commands to a Phoenix Backend.",
+  "main": "index.js",
+  "repository": "https://github.com/webdeb/phxcli",
+  "author": "Boris Kotov <bk@webdeb.de> (http://www.webdeb.de/)",
+  "license": "MIT",
+  "dependencies": {
+    "eslint": "^3.19.0",
+    "vorpal": "^1.12.0"
+  }
+}
